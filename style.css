@@ -80,7 +80,7 @@ a:hover {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1200px) {
       .nav-list {
      display: flex;
      flex-direction: column;
@@ -116,4 +116,8 @@ header, footer {
 #profile img {
     padding-right: 100px;
     padding-top: 20px;
+}
+
+.code {
+  font-style: italic;
 }
