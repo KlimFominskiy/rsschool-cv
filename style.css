@@ -27,7 +27,7 @@ body {
     justify-content: space-between;
 }
 
-#section-title {
+.section-title {
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
@@ -91,7 +91,6 @@ header, footer {
     background-color:beige;
 }
 
-            
 .footer .container {
     display: flex;
     justify-content: space-between;
