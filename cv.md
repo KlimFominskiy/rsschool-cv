@@ -1,5 +1,5 @@
 # Fominskiy Klim
-![alt text](IMG_20241129_121324.jpg)
+![alt text](./assets/img/IMG_20241129_121324.jpg)
 ## Junior Frontend Developer
 ## Contact information:
 
