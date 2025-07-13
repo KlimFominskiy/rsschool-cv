@@ -1,3 +1,3 @@
 # rsschool-cv
-CV - https://klimfominskiy.github.io/rsschool-cv/cv
-CV repository - https://klimfominskiy.github.io/rsschool-cv
+CV markdown - https://klimfominskiy.github.io/rsschool-cv/cv
+CV html - https://klimfominskiy.github.io/rsschool-cv/index.html
